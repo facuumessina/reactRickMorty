@@ -1,0 +1,1 @@
+Web: https://rickmorty-fm.netlify.app/
